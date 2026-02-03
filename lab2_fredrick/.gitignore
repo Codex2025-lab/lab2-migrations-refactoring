@@ -1,0 +1,11 @@
+# Go binaries
+*.exe
+*.out
+*.bin
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
